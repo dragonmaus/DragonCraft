@@ -1,12 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "699af5cd663cd614d07ae04ee4e3bc8bc692eeeca15460a381fec4be27153965"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "b23828908791b2b9570c7d5dd7395abd484aa53f90605c9f498f3ae173f78f3f"
 
 [[files]]
 file = "mods/fabric-api.toml"
 hash = "239fb5cac99f372f39a0edf89f40e20ed23bcf06c533d9c4571c86b6fee42abb"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
 metafile = true
 
 [[files]]
