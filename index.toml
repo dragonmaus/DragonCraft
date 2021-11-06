@@ -19,6 +19,11 @@ hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
 metafile = true
 
 [[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
 metafile = true
