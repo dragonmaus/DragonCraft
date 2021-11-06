@@ -14,6 +14,11 @@ hash = "239fb5cac99f372f39a0edf89f40e20ed23bcf06c533d9c4571c86b6fee42abb"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.toml"
+hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
 metafile = true
