@@ -1,0 +1,13 @@
+name = "BetterF3"
+filename = "betterf3-1.1.5+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com//data/8shC1gFX/versions/1.1.5/betterf3-1.1.5+1.17.jar"
+hash-format = "sha512"
+hash = "32d01ad6ff36b5501a1cccc2e5fd86124c83c7a0ec4d47b898694c7cd6ac30d9319762cc1026c3fa106db53bc3c7b58908c72d8339e41fd4acf33af045abe816"
+
+[update]
+[update.modrinth]
+mod-id = "8shC1gFX"
+version = "1eRzbEj6"

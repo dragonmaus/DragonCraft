@@ -26,6 +26,11 @@ hash = "204660c07c7a56a31e59b911a89e789f6069f157cd5edd6566f4d094727a193e"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.toml"
+hash = "a638fb609549385e234caee584ce210a7c44efcbcd7b025e98a2e46ea9813557"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "c30a247ff3528d443e1486a6e793c6d733d2ddac701f1af8a5f1dc00d2f9c5b1"
 metafile = true
