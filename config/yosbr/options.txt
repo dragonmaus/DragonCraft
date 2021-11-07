@@ -112,6 +112,10 @@ key_key.amecs.toggle_right_sleeve:key.keyboard.unknown
 key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_hat:key.keyboard.unknown
+key_key.lambdacontrols.look_up:key.keyboard.unknown
+key_key.lambdacontrols.look_right:key.keyboard.unknown
+key_key.lambdacontrols.look_down:key.keyboard.unknown
+key_key.lambdacontrols.look_left:key.keyboard.unknown
 soundCategory_master:0.5
 soundCategory_music:0.5
 soundCategory_record:1.0

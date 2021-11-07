@@ -1,16 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/lambdacontrols.toml"
+hash = "1f4433788090c42a6a98c3a624b9d0eea6caf23fa4745e1774da308192c215e1"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "699af5cd663cd614d07ae04ee4e3bc8bc692eeeca15460a381fec4be27153965"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "edb493647ce282f5ec619a537def11355cef985c43fe0751cea5ced0b959b503"
+hash = "8da58432373cbcf0c0de79046ecb6c6d5e1579dffcb7ba1578f7e9a2d3b50efb"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1d3c658c59f96c9608461b016a2bbf293020bef480ea5ddde07a76bfaa005b5a"
+hash = "c875a2191b0b0d7d2dfc39ed8163c15739ab3661cd87cd42da1cc7093d797799"
 
 [[files]]
 file = "mods/amecs.toml"
@@ -50,6 +54,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.toml"
 hash = "01f54d293d1008f22f8cfc9a43b4c8e5473d882c2ed7ca667cbcf55ae4d638bc"
+metafile = true
+
+[[files]]
+file = "mods/lambdacontrols.toml"
+hash = "7b90c383bc3debd158497223d1589c5b118f2f88b29610b90214ffc02e5521b8"
 metafile = true
 
 [[files]]
