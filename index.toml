@@ -6,11 +6,16 @@ hash = "699af5cd663cd614d07ae04ee4e3bc8bc692eeeca15460a381fec4be27153965"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b23828908791b2b9570c7d5dd7395abd484aa53f90605c9f498f3ae173f78f3f"
+hash = "58e071c172451a86c948fe1ab9dcf0b1d9284337baa9a016cffc2a756b37b8a5"
 
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "c30a247ff3528d443e1486a6e793c6d733d2ddac701f1af8a5f1dc00d2f9c5b1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
 
 [[files]]
