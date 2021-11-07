@@ -5,16 +5,20 @@ file = "config/yosbr/config/lambdacontrols.toml"
 hash = "1f4433788090c42a6a98c3a624b9d0eea6caf23fa4745e1774da308192c215e1"
 
 [[files]]
+file = "config/yosbr/config/memoryusagescreen.toml"
+hash = "4a268613e7ca5c02a3aaf7bb65f74f08791277a41f5dcc4cdf430611b141eb9d"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "699af5cd663cd614d07ae04ee4e3bc8bc692eeeca15460a381fec4be27153965"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "8da58432373cbcf0c0de79046ecb6c6d5e1579dffcb7ba1578f7e9a2d3b50efb"
+hash = "48c0cef18d531364f44580206d6dfb83cfd2f751e76991f150764aa7c689d513"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c875a2191b0b0d7d2dfc39ed8163c15739ab3661cd87cd42da1cc7093d797799"
+hash = "4c509695659e61aa8b17c34497a2d0ba097b5b731a33d3441bb1039f0410cab0"
 
 [[files]]
 file = "mods/amecs.toml"
@@ -69,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "e1aea49ed8a6f2af853793ee649e69d27d872b080c4a4a30264a42022a4eabed"
+metafile = true
+
+[[files]]
+file = "mods/memory-usage-screen.toml"
+hash = "784f99191e957fee32e8c3ac668a13f7c8fa548515b9f9bdbee0c55f7263e708"
 metafile = true
 
 [[files]]
