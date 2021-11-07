@@ -21,6 +21,11 @@ file = "config/yosbr/options.txt"
 hash = "73694d1b28b832976dc563903b1dbe23841fe16996b0aafd15595318f01fe48a"
 
 [[files]]
+file = "mods/alternate-current.toml"
+hash = "983f354e9af93e907151263a991c8230e1455cde2a74ef1fb9e4d4f3a660b04b"
+metafile = true
+
+[[files]]
 file = "mods/amecs.toml"
 hash = "204660c07c7a56a31e59b911a89e789f6069f157cd5edd6566f4d094727a193e"
 metafile = true
