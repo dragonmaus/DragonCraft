@@ -96,6 +96,11 @@ hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
 metafile = true
 
 [[files]]
+file = "mods/narrator-off.toml"
+hash = "c6cddabb39b215d2088108f1e50541bd354605427ffc477c16928962f3f62f0a"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "f1b7fb57203e856aa6a6a773e79f1e83d0aa917eb18acce60616f09c1665a90a"
 metafile = true
