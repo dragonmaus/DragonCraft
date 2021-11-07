@@ -9,6 +9,11 @@ file = "config/yosbr/options.txt"
 hash = "b23828908791b2b9570c7d5dd7395abd484aa53f90605c9f498f3ae173f78f3f"
 
 [[files]]
+file = "mods/cloth-config.toml"
+hash = "c30a247ff3528d443e1486a6e793c6d733d2ddac701f1af8a5f1dc00d2f9c5b1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "239fb5cac99f372f39a0edf89f40e20ed23bcf06c533d9c4571c86b6fee42abb"
 metafile = true
