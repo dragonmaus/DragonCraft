@@ -1,0 +1,13 @@
+name = "Better Signs & Frames"
+filename = "better-signs-and-frames-0.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tEcCNQe7/versions/mc1.17.1-v0.8.2/better-signs-and-frames-0.8.2.jar"
+hash-format = "sha512"
+hash = "57d6ee2103d3a7d4b22acb6b93a529fbed4a377524df7cb1789408965f21c59af48bd3b0640a7a4b03ad3f24265b78ed4ec829a5d1fe16d89677272f1db8963d"
+
+[update]
+[update.modrinth]
+mod-id = "tEcCNQe7"
+version = "UgEtsOWx"

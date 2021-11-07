@@ -31,6 +31,11 @@ hash = "204660c07c7a56a31e59b911a89e789f6069f157cd5edd6566f4d094727a193e"
 metafile = true
 
 [[files]]
+file = "mods/better-signs.toml"
+hash = "4fba04d58be6dcebc79f7dce5107cb257a7cfb4727b3ef0d89a0e5dd941557f9"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.toml"
 hash = "a638fb609549385e234caee584ce210a7c44efcbcd7b025e98a2e46ea9813557"
 metafile = true
