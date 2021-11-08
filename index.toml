@@ -49,6 +49,11 @@ hash = "a638fb609549385e234caee584ce210a7c44efcbcd7b025e98a2e46ea9813557"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.toml"
+hash = "eaf40966a8034570a6aa95b56ff5e12e5b496c2c08e67f749990ee0330298db1"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "c30a247ff3528d443e1486a6e793c6d733d2ddac701f1af8a5f1dc00d2f9c5b1"
 metafile = true
