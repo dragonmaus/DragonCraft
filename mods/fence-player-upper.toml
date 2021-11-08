@@ -1,0 +1,13 @@
+name = "Fence Player Upper"
+filename = "fenceplayerupper-1.2.1+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OVHXGtu4/versions/1.2.1+1.17.1/fenceplayerupper-1.2.1+1.17.1.jar"
+hash-format = "sha512"
+hash = "14ddda820aa8beac3bb28ea63af0fc3de199cb6642703f7e65a3f1720979b2588cf86cfa50a9958d47998a4a523add6acf99a95f1f9e1c5620d1cdfb580156cd"
+
+[update]
+[update.modrinth]
+mod-id = "OVHXGtu4"
+version = "ONwascu9"

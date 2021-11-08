@@ -74,6 +74,11 @@ hash = "239fb5cac99f372f39a0edf89f40e20ed23bcf06c533d9c4571c86b6fee42abb"
 metafile = true
 
 [[files]]
+file = "mods/fence-player-upper.toml"
+hash = "5a4a930394fad19aa6265ef4e4bbf4c13620b4a5f90bb787f428697c2ace9194"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.toml"
 hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
 metafile = true
