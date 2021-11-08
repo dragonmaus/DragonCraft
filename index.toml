@@ -73,6 +73,11 @@ hash = "a0f6cfb17a770ded8d9b1839cd55158cc67f79ea7bb1fea8e7ebaec6091f9e55"
 metafile = true
 
 [[files]]
+file = "mods/dispenser-configurator.toml"
+hash = "940a8bec20245e51d08eef349a79ef4496fbc326665924b875226a9496e17226"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
