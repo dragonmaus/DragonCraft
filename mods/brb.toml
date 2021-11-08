@@ -1,0 +1,13 @@
+name = "Better Recipe Book"
+filename = "better-recipe-book-1.5.4-1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.4/better-recipe-book-1.5.4-1.17.jar"
+hash-format = "sha512"
+hash = "4d0c2eb2ad5ab91a45a4751ff52936fd595243490b635f9c1ed99f55eddeea58221dc3aebf90e97bd7d15616a234499ac205bfc914096007d8f3568e52902fe1"
+
+[update]
+[update.modrinth]
+mod-id = "vWIaVOTE"
+version = "4mpuejW0"

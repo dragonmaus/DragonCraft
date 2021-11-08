@@ -5,6 +5,10 @@ file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
+file = "config/yosbr/config/betterrecipebook.toml"
+hash = "ecce7a72ab47762cdb45f1b245b717817dedee8de2c8f8d8c005e48b00e3403c"
+
+[[files]]
 file = "config/yosbr/config/lambdacontrols.toml"
 hash = "1f4433788090c42a6a98c3a624b9d0eea6caf23fa4745e1774da308192c215e1"
 
@@ -51,6 +55,11 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.toml"
 hash = "eaf40966a8034570a6aa95b56ff5e12e5b496c2c08e67f749990ee0330298db1"
+metafile = true
+
+[[files]]
+file = "mods/brb.toml"
+hash = "f4e8c92a0130584f8443bf224ba1a38002af4537e34c274a2aff4d7ae378d5f7"
 metafile = true
 
 [[files]]
