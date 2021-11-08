@@ -69,6 +69,11 @@ hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.toml"
+hash = "9ec281da9d0175d1b2a7b51f347562fe0611dbddc3d22b25129c2d3a78c5bd37"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "239fb5cac99f372f39a0edf89f40e20ed23bcf06c533d9c4571c86b6fee42abb"
 metafile = true
