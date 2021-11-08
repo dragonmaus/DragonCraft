@@ -154,6 +154,11 @@ hash = "d58ba2a35f7c4c5cd888fd3d13218ad5ea7007b4b6f3a10835fb055c9569af2c"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees-fabric.toml"
+hash = "39472632472a73600faa94aa8e5438a5dc74e04a61b18e3b65aea4716730493f"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "cbfd2f0c65a616c3f7093f66a22b178f3be81bff333d8b6a9849f5fc5ef79ad7"
 metafile = true
