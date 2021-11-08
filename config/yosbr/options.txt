@@ -118,6 +118,7 @@ key_key.lambdacontrols.look_right:key.keyboard.unknown
 key_key.lambdacontrols.look_down:key.keyboard.unknown
 key_key.lambdacontrols.look_left:key.keyboard.unknown
 key_key.memoryusagescreen.show:key.keyboard.f10
+key_seamless_loading_screen.keybind.config:key.keyboard.unknown
 soundCategory_master:0.5
 soundCategory_music:0.5
 soundCategory_record:1.0

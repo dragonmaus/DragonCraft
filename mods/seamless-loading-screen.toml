@@ -1,0 +1,13 @@
+name = "Seamless Loading Screen "
+filename = "seamless-loading-screen-1.3.6+1.17.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TyTPFOiF/versions/v1.3.6+1.17.1/seamless-loading-screen-1.3.6+1.17.1.jar"
+hash-format = "sha512"
+hash = "037266653a67813d2a01506e74e453e10d8d4c8a20da01eec2d6e7a0f0a53d801aa80bfad16d85f60e5fee428e543df0bd96ccc88cf5634d244c4198361cb674"
+
+[update]
+[update.modrinth]
+mod-id = "TyTPFOiF"
+version = "JWUaioGR"
