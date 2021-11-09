@@ -9,6 +9,10 @@ file = "config/yosbr/config/betterrecipebook.toml"
 hash = "ecce7a72ab47762cdb45f1b245b717817dedee8de2c8f8d8c005e48b00e3403c"
 
 [[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "3c2addb020d6080a6f769d546e31d2ff16d2d8d88319360cdbbcc3fb7e5b8ac2"
+
+[[files]]
 file = "config/yosbr/config/lambdacontrols.toml"
 hash = "1f4433788090c42a6a98c3a624b9d0eea6caf23fa4745e1774da308192c215e1"
 
@@ -85,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.toml"
 hash = "9ec281da9d0175d1b2a7b51f347562fe0611dbddc3d22b25129c2d3a78c5bd37"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
 metafile = true
 
 [[files]]
