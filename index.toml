@@ -197,6 +197,11 @@ hash = "6780714a86292a515538fb6c444e4ee74df1eda55faa5c9a5dff82a05d0ef703"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.toml"
+hash = "26f74f1f5af47fe1d6057567d966e4fba7d666da6efdca301b5fc8b5a1937a75"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.toml"
 hash = "c4a7a34adefe0527060ab7e840f38330d6d462811ef32fadab80df39be985529"
 metafile = true
