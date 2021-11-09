@@ -57,6 +57,11 @@ hash = "a638fb609549385e234caee584ce210a7c44efcbcd7b025e98a2e46ea9813557"
 metafile = true
 
 [[files]]
+file = "mods/blame-fabric.toml"
+hash = "873476c40aab10697306bbb0b4308a6f89c0e94f1c9c54a2e71a058cd98b73c7"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.toml"
 hash = "eaf40966a8034570a6aa95b56ff5e12e5b496c2c08e67f749990ee0330298db1"
 metafile = true
