@@ -1,0 +1,13 @@
+name = "Damage Tint"
+filename = "damage-tint-fabric-1.17.1-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HNLSku3h/versions/1.1.0/damage-tint-fabric-1.17.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "71dc32b42981b752b9efedcfb6f5e9898501fee70d1c0f240b9ba8fd0aed9624172db25efa9dd375581be60c1e3ff765e78a3bef18b7d2f413390b283895d731"
+
+[update]
+[update.modrinth]
+mod-id = "HNLSku3h"
+version = "m87W4lfV"

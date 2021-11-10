@@ -9,6 +9,10 @@ file = "config/yosbr/config/betterrecipebook.toml"
 hash = "ecce7a72ab47762cdb45f1b245b717817dedee8de2c8f8d8c005e48b00e3403c"
 
 [[files]]
+file = "config/yosbr/config/damage_tint.json"
+hash = "17d22fa2f584b195ee8f3213666e41e84609ff72b412a9894e02b71927487f9c"
+
+[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "3c2addb020d6080a6f769d546e31d2ff16d2d8d88319360cdbbcc3fb7e5b8ac2"
 
@@ -79,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/crawl.toml"
 hash = "a0f6cfb17a770ded8d9b1839cd55158cc67f79ea7bb1fea8e7ebaec6091f9e55"
+metafile = true
+
+[[files]]
+file = "mods/damage-tint.toml"
+hash = "599ee21f4749bff3056ada7d606b6af2da426728299ec9e66dbfaf4ea7221651"
 metafile = true
 
 [[files]]
